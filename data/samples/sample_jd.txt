@@ -1,0 +1,4 @@
+We are seeking an AI/ML Engineer with 3+ years experience.
+Must have: Python, Pandas, NumPy, scikit-learn, PyTorch or TensorFlow, SQL.
+Nice to have: FastAPI, Docker, Airflow, AWS/GCP, MLOps.
+Responsibilities include model development, deployment, and monitoring.

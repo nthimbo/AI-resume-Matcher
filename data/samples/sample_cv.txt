@@ -1,0 +1,3 @@
+Gift Tembo — Data Scientist / AI Engineer
+Skills: Python, Pandas, NumPy, scikit-learn, PyTorch, SQL, FastAPI, Docker
+Experience: 4 years building ML models and data pipelines. Deployed FastAPI services on Render.

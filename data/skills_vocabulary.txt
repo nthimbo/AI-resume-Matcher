@@ -1,0 +1,74 @@
+python
+pandas
+numpy
+scikit-learn
+pytorch
+tensorflow
+keras
+xgboost
+lightgbm
+catboost
+nlp
+computer vision
+time series
+transformers
+hugging face
+openai api
+grpc
+fastapi
+flask
+streamlit
+gradio
+mlops
+airflow
+mlflow
+dvc
+prefect
+docker
+kubernetes
+git
+linux
+makefile
+bash
+sql
+postgresql
+mysql
+sqlite
+snowflake
+bigquery
+redshift
+athena
+dbt
+spark
+hadoop
+kafka
+aws
+gcp
+azure
+s3
+lambda
+cloud run
+cloud functions
+power bi
+tableau
+superset
+plotly
+seaborn
+matplotlib
+feature engineering
+model monitoring
+feature store
+feast
+vector database
+pinecone
+weaviate
+faiss
+retrieval
+rag
+llm
+prompt engineering
+evaluation
+unit testing
+ci cd
+github actions
+pytest
